@@ -1,0 +1,2 @@
+# csvSplitter-
+csvSplitter can split a csv file created from Microsoft's Perfmon* into spreadsheet files (reports) based on specific, built-in Counter Names. Each spreadsheet report contains a statistical breakdown of the values for its repsective counter as well as an automatically generated chart based on the raw values. The goal of this utility is to speed up the time to perform post-processing and analysis on a Perfmon performance collection.
